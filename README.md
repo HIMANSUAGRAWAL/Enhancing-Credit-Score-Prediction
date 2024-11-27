@@ -15,7 +15,6 @@ This project focuses on **Credit Score Prediction** using **Random Forest Classi
 7. [Future Scope](#future-scope)  
 8. [Installation](#installation)  
 9. [Usage](#usage)  
-10. [License](#license)  
 
 ---
 
@@ -128,12 +127,6 @@ The dataset includes the following key features:
 2. Train the Random Forest Classifier using the provided workflow.  
 3. Use the trained model to classify new data points.  
 4. Visualize key features influencing credit scores using the provided box plot scripts.  
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
